@@ -19,6 +19,9 @@ Caregivers can access all product resources to make the item themselves at no ch
 # Supporters of Open Devices:
 Receive a significant discount for finished products. First in line access to new products added to the platform and live support.
 
+# Product Specific Resources
+Fusion 360 and Camtasia resources are available on request.
+
 
 # License Addendum:
 All Open Devices files, resources and documentation may not be used for online catelog resale without an additional license issed by Open Devices.
